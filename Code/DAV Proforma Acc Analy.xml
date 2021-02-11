@@ -1,0 +1,382 @@
+<DAVProformaAccAnaly>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 1</InvestmentAccountLongName>
+		<AttributionGross>2.119265104055602e-05</AttributionGross>
+		<AttributionNet>2.108889938052946e-05</AttributionNet>
+		<OpeningAllocation>0.005174539139199182</OpeningAllocation>
+		<ClosingAllocation>0.005189781105213061</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>0.004095563</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.651938676996467</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.679049211867926</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.651938676996467</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.679049211867926</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 2</InvestmentAccountLongName>
+		<AttributionGross>2.909538323649109e-05</AttributionGross>
+		<AttributionNet>2.899163157646453e-05</AttributionNet>
+		<OpeningAllocation>0.005230934441045491</OpeningAllocation>
+		<ClosingAllocation>0.005254005498550999</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>0.005562177000000001</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.724435585312521</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.761703542563215</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.724435585312521</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.761703542563215</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 3</InvestmentAccountLongName>
+		<AttributionGross>-3.49666242881802e-06</AttributionGross>
+		<AttributionNet>-3.600414088844581e-06</AttributionNet>
+		<OpeningAllocation>0.005115617128245146</OpeningAllocation>
+		<ClosingAllocation>0.005106265541055268</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>-0.0006835270000000001</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.576193650618674</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.571567884301622</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.576193650618674</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.571567884301622</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 4</InvestmentAccountLongName>
+		<AttributionGross>2.123826364885281e-05</AttributionGross>
+		<AttributionNet>2.113451198882625e-05</AttributionNet>
+		<OpeningAllocation>0.005195238201540551</OpeningAllocation>
+		<ClosingAllocation>0.005210502021232976</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>0.004088025</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.678547596102531</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.705716235968995</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.678547596102531</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.705716235968995</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 17</InvestmentAccountLongName>
+		<AttributionGross>2.755475023853125e-05</AttributionGross>
+		<AttributionNet>2.745099857850469e-05</AttributionNet>
+		<OpeningAllocation>0.005093760846829241</OpeningAllocation>
+		<ClosingAllocation>0.005115450141099162</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>0.005409509999999999</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.548097111047756</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.583388112253602</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.548097111047756</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.583388112253602</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 16</InvestmentAccountLongName>
+		<AttributionGross>-2.070168479317965e-06</AttributionGross>
+		<AttributionNet>-2.173920139344526e-06</AttributionNet>
+		<OpeningAllocation>0.005337583661923733</OpeningAllocation>
+		<ClosingAllocation>0.005329402716072358</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>-0.0003878475</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.861534572902999</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.858736869413404</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.861534572902999</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.858736869413404</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 15</InvestmentAccountLongName>
+		<AttributionGross>-1.940408807975866e-05</AttributionGross>
+		<AttributionNet>-1.950783973978522e-05</AttributionNet>
+		<OpeningAllocation>0.005392179840708177</OpeningAllocation>
+		<ClosingAllocation>0.005366622298694765</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>-0.003598561</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.931718684666943</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.90663704457311</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.931718684666943</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.90663704457311</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 14</InvestmentAccountLongName>
+		<AttributionGross>-9.976623552509027e-06</AttributionGross>
+		<AttributionNet>-1.008037521253559e-05</AttributionNet>
+		<OpeningAllocation>0.005244379073264815</OpeningAllocation>
+		<ClosingAllocation>0.005228407475079547</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>-0.001902346</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.741718838304119</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.728759868248967</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.741718838304119</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.728759868248967</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 13</InvestmentAccountLongName>
+		<AttributionGross>-1.749415581952579e-05</AttributionGross>
+		<AttributionNet>-1.759790747955235e-05</AttributionNet>
+		<OpeningAllocation>0.005271936191132592</OpeningAllocation>
+		<ClosingAllocation>0.005248424109291207</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>-0.003318355</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.777143878726093</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.754520508677779</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.777143878726093</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.754520508677779</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 12</InvestmentAccountLongName>
+		<AttributionGross>-1.387199700328407e-05</AttributionGross>
+		<AttributionNet>-1.397574866331063e-05</AttributionNet>
+		<OpeningAllocation>0.005165307758234378</OpeningAllocation>
+		<ClosingAllocation>0.005145535808560743</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>-0.002685609</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.640071614359586</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.622107212245305</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.640071614359586</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.622107212245305</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 11</InvestmentAccountLongName>
+		<AttributionGross>-4.709926678570521e-06</AttributionGross>
+		<AttributionNet>-4.813678338597081e-06</AttributionNet>
+		<OpeningAllocation>0.005268524048189424</OpeningAllocation>
+		<ClosingAllocation>0.005257785461614488</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>-0.0008939746</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.772757523728185</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.766568210033435</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.772757523728185</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.766568210033435</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>nan</InvestmentAccountLongName>
+		<AttributionGross>-1.182319737245871e-05</AttributionGross>
+		<AttributionNet>-1.192694903248527e-05</AttributionNet>
+		<OpeningAllocation>0.005093258739147339</OpeningAllocation>
+		<ClosingAllocation>0.005075615760536505</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>-0.002321342381761275</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.547451644964803</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.532122792443675</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.547451644964803</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.532122792443675</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 10</InvestmentAccountLongName>
+		<AttributionGross>4.873944153466173e-06</AttributionGross>
+		<AttributionNet>4.770192493439613e-06</AttributionNet>
+		<OpeningAllocation>0.005200498538120522</OpeningAllocation>
+		<ClosingAllocation>0.005199410755737846</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>0.0009372070999999999</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.685309828527299</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.691442202717486</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.685309828527299</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.691442202717486</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 9</InvestmentAccountLongName>
+		<AttributionGross>8.608351373399145e-05</AttributionGross>
+		<AttributionNet>8.597976207396488e-05</AttributionNet>
+		<OpeningAllocation>0.005480649077310507</OpeningAllocation>
+		<ClosingAllocation>0.00556035699784331</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>0.01570681</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>7.045447061407073</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>7.155966171067442</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>7.045447061407073</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>7.155966171067442</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 8</InvestmentAccountLongName>
+		<AttributionGross>2.042675073927907e-05</AttributionGross>
+		<AttributionNet>2.03229990792525e-05</AttributionNet>
+		<OpeningAllocation>0.005154269371994643</OpeningAllocation>
+		<ClosingAllocation>0.00516876952991152</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>0.003963073961610615</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.625881622481182</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.652008120420563</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.625881622481182</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.652008120420563</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 7</InvestmentAccountLongName>
+		<AttributionGross>0.000111551947782771</AttributionGross>
+		<AttributionNet>0.0001114481961227444</AttributionNet>
+		<OpeningAllocation>0.005144395617834251</OpeningAllocation>
+		<ClosingAllocation>0.005249927915307422</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>0.02168416973921097</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.613188780583608</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.756455849337391</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.613188780583608</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.756455849337391</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>nan</InvestmentAccountLongName>
+		<AttributionGross>0.0</AttributionGross>
+		<AttributionNet>-1.037516600265604e-07</AttributionNet>
+		<OpeningAllocation>0.005084848499272712</OpeningAllocation>
+		<ClosingAllocation>0.005079024809165308</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>0.0</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.536640170087543</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.536510107264055</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.536640170087543</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.536510107264055</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 6</InvestmentAccountLongName>
+		<AttributionGross>0.0001569015430658485</AttributionGross>
+		<AttributionNet>0.0001567977914058219</AttributionNet>
+		<OpeningAllocation>0.005117737798983247</OpeningAllocation>
+		<ClosingAllocation>0.005268598283999714</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>0.03065837860959202</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.578919800972255</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.780483897683067</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.578919800972255</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.780483897683067</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 5</InvestmentAccountLongName>
+		<AttributionGross>2.355563315332659e-05</AttributionGross>
+		<AttributionNet>2.345188149330003e-05</AttributionNet>
+		<OpeningAllocation>0.005161642023061436</OpeningAllocation>
+		<ClosingAllocation>0.005179259035958967</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>0.004563592951251479</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.63535926318771</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.665507712345299</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.63535926318771</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.665507712345299</PortfolioClosingBalance>
+	</row>
+	<row>
+		<ReferenceDay>2021-02-04 00:00:00</ReferenceDay>
+		<Periodicity>Daily</Periodicity>
+		<InvestorAccountUID>HFRIILAU</InvestorAccountUID>
+		<InvestorAccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</InvestorAccountLongName>
+		<InvestmentAccountUID>nan</InvestmentAccountUID>
+		<InvestmentAccountLongName>Vidrio Long Name 4</InvestmentAccountLongName>
+		<AttributionGross>2.123826364885281e-05</AttributionGross>
+		<AttributionNet>2.113451198882625e-05</AttributionNet>
+		<OpeningAllocation>0.005195238201540551</OpeningAllocation>
+		<ClosingAllocation>0.005210502021232976</ClosingAllocation>
+		<OpeningEquity>1285.513259839006</OpeningEquity>
+		<ClosingEquity>1286.961641823181</ClosingEquity>
+		<InvestmentPerformance>0.004088025</InvestmentPerformance>
+		<InvestmentAdjOpeningBalance>6.678547596102531</InvestmentAdjOpeningBalance>
+		<InvestmentClosingBalance>6.705716235968995</InvestmentClosingBalance>
+		<PortfolioOpeningBalance>6.678547596102531</PortfolioOpeningBalance>
+		<PortfolioClosingBalance>6.705716235968995</PortfolioClosingBalance>
+	</row>
+</DAVProformaAccAnaly>

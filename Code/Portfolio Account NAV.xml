@@ -1,0 +1,9 @@
+<PortfolioAccountNAV>
+	<row>
+		<PortfolioAccountUID>HFRIILAU</PortfolioAccountUID>
+		<AccountLongName>HFRI-I Liquid Alt UCITS Index (Net)</AccountLongName>
+		<Date>2021-02-04 00:00:00</Date>
+		<NAV/Share>1286.961641823181</NAV/Share>
+		<Final>True</Final>
+	</row>
+</PortfolioAccountNAV>

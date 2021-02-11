@@ -19,7 +19,7 @@ class ReadandWrite:
 
             for df, name in dataframes:
                 df.columns = df.columns.str.strip()
-                name.strip().replace(' ', '_')
+                name = name.strip().replace(' ', '_')
                 df.to_sql(name, con=self.con)
                 # print(df)
 
@@ -101,7 +101,7 @@ class ReadandWrite:
 
         new_dataframe = pd.DataFrame(data, columns=[
             'Reference Day',
-            'Periodicity:', 
+            'Periodicity', 
             'Investor Account UID', 
             'Investor Account Long Name',
             'Investment Account UID',
@@ -118,7 +118,7 @@ class ReadandWrite:
             'Portfolio Opening Balance',
             'Portfolio Closing Balance'
             ])
-        new_dataframe.to_excel(new_filename, index=False)
+        new_dataframe.to_excel(new_filename, sheet_name = new_filename.strip('.xlsx'), index=False)
         return new_dataframe
 
     def generate_portfolio_valuation_file2(self, old_filename, new_filename):
@@ -158,7 +158,7 @@ class ReadandWrite:
                 data.append(new_row)
 
         new_dataframe = pd.DataFrame(data, columns=['Portfolio Account UID', 'Account Long Name', 'Date', 'NAV/Share', 'Final'])
-        new_dataframe.to_excel(new_filename, index=False)
+        new_dataframe.to_excel(new_filename, sheet_name=new_filename.strip('.xlsx'), index=False)
         return new_dataframe
 
     def extract_timestamp_from_file(self, filename):
@@ -166,6 +166,31 @@ class ReadandWrite:
         month, day, year = timestamp.split('.')
         timestamp = f'{year}/{month}/{day}'
         return timestamp
+
+
+    def convert_xlsx_to_xml(self, filenames):
+         for filename in filenames:
+            wb = load_workbook(filename)
+            xls = pd.ExcelFile(filename)
+            dataframes = []
+            for worksheet in wb.sheetnames:
+                dataframes.append((pd.read_excel(xls, worksheet), worksheet))
+            
+            for df, name in dataframes:
+                new_file = open(f'{name}.xml', 'w')
+                df.columns = df.columns.str.replace(' ', '')
+                name = name.strip().replace(' ', '')
+                xml_doc = f'<{name}>\n'
+                for row in df.iterrows():
+                    new_row = '\t<row>\n'
+                    for i in range(len(df.columns)):
+                        row_data = str(row[1][df.columns[i]]).replace("\n", " ")
+                        new_row += f'\t\t<{df.columns[i]}>{row_data}</{df.columns[i]}>\n'
+                    new_row+='\t</row>\n'
+                    xml_doc+=new_row
+                xml_doc += f'</{name}>'
+                new_file.write(xml_doc)
+                new_file.close()
 
     def run_query(self, query):
         queryset = self.con.execute(f"SELECT * FROM constituents")
