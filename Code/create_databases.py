@@ -157,7 +157,7 @@ class ReadandWrite:
             if len(new_row) != 0:
                 data.append(new_row)
 
-        new_dataframe = pd.DataFrame(data, columns=['Portfolio Account UID', 'Account Long Name', 'Date', 'NAV/Share', 'Final'])
+        new_dataframe = pd.DataFrame(data, columns=['Portfolio Account UID', 'Account Long Name', 'Date', 'NAV', 'Final'])
         new_dataframe.to_excel(new_filename, sheet_name=new_filename.strip('.xlsx'), index=False)
         return new_dataframe
 
